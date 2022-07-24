@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+*{
+    font-family: 'Edu VIC WA NT Beginner';
+}
+
+.navbar{
+    background-color: #576F72;
+}
+
+.jumbotron{
+    background-color: #E4DCCF;
+    padding-left: 2rem;
+}
+
+.cartas{
+    background-color: #F0EBE3;
+}
